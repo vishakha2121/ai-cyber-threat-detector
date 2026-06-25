@@ -337,22 +337,7 @@ jekyll/
 *.swp
 *.swo
 *~
-.~lock.*
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-.vs/
 
-# Git
-*.orig
-*.mine
-*.remote
-*.local
-.gitattributes
-.gitmodules
 
 
 
