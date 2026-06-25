@@ -428,26 +428,6 @@ CVS/
 *.orig
 *.rej
 
-# ------------------------------
-# 🛡️ SECURITY FILES
-# ------------------------------
-*.key
-*.pem
-*.crt
-*.csr
-*.pkcs12
-*.pfx
-*.p12
-*.jks
-*.keystore
-*.truststore
-*.kdb
-*.crt
-*.cer
-*.der
-*.p7b
-*.
-
 
 
 
