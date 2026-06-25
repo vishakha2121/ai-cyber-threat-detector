@@ -416,19 +416,6 @@ $RECYCLE.BIN/
 .directory
 .Trash-*
 
-# ------------------------------
-# 🔄 VERSION CONTROL
-# ------------------------------
-.svn/
-.hg/
-.hgignore
-.hgkeep
-.cvs/
-CVS/
-*.orig
-*.rej
-
-
 
 
 
