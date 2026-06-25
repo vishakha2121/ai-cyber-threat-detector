@@ -470,12 +470,6 @@ coverage/
 *.cover
 htmlcov/
 *.py,cover
-test-reports/
-junit.xml
-*.test.js
-*.test.ts
-*.spec.js
-*.spec.ts
 
 
 
