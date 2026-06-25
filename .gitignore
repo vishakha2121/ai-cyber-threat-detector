@@ -354,19 +354,7 @@ jekyll/
 .gitattributes
 .gitmodules
 
-# ------------------------------
-# 📦 COMPRESSED FILES
-# ------------------------------
-*.7z
-*.rar
-*.zip
-*.gz
-*.tgz
-*.bz2
-*.xz
-*.z
-*.Z
-*.lz
+
 
 
 
