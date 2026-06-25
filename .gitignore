@@ -282,16 +282,6 @@ docker-compose.prod.yml
 *.hdf5
 *.parquet
 *.feather
-*.arrow
-*.npy
-*.npz
-
-# Model files
-*.model
-*.weights
-*.h5
-*.pb
-*.onnx
 
 
 
