@@ -501,14 +501,3 @@ Desktop.ini
 .Spotlight-V100
 
 # Other
-*.dll
-*.exe
-*.pdb
-*.obj
-*.o
-*.so
-*.dylib
-*.nupkg
-*.msi
-*.msp
-*.msm
