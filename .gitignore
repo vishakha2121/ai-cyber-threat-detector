@@ -483,15 +483,7 @@ junit.xml
 # Cache
 .cache/
 *.cache
-.eslintcache
-.stylelintcache
 
-# Temporary files
-*.tmp
-*.temp
-*.swp
-*.swo
-*~
 
 
 
