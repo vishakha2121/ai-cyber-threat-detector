@@ -493,10 +493,5 @@ junit.xml
 *.swo
 *~
 
-# OS files
-.DS_Store
-Thumbs.db
-Desktop.ini
-.Trashes
-.Spotlight-V100
+
 
