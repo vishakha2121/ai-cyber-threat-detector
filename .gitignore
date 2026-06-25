@@ -126,15 +126,6 @@ poetry.lock
 # pdm
 .pdm.toml
 
-# PEP 582
-__pypackages__/
-
-# Celery stuff
-celerybeat-schedule
-celerybeat.pid
-
-# SageMath parsed files
-ct
 
 
 
