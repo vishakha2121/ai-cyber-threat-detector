@@ -253,17 +253,6 @@ postgresql_data/
 mysql_data/
 mongodb_data/
 
-# Database dumps
-*.sql
-*.dump
-*.backup
-*.bak
-
-# ------------------------------
-# 🐳 DOCKER
-
-
-
 
 
 
