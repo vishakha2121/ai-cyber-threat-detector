@@ -239,19 +239,7 @@ ehthumbs_vista.db
 
 # ------------------------------
 # 🗄️ DATABASES
-# ------------------------------
-*.db
-*.sqlite
-*.sqlite3
-*.db-journal
-*.db-wal
-*.db-shm
-*.sqlite-journal
-*.sqlite-wal
-*.sqlite-shm
-postgresql_data/
-mysql_data/
-mongodb_data/
+ata/
 
 
 
