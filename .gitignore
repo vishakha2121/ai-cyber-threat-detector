@@ -292,16 +292,7 @@ docker-compose.prod.yml
 *.h5
 *.pb
 *.onnx
-*.pt
-*.pth
-*.ckpt
-*.safetensors
-*.bin
 
-# ------------------------------
-# ☕ LOGS & TEMPORARY FILES
-
-# 
 
 
 
