@@ -184,18 +184,6 @@ lerna-debug.log*
 # Build outputs
 dist/
 build/
-out/
-.next/
-.nuxt/
-.cache/
-.vite/
-
-# TypeScript
-*.tsbuildinfo
-
-# NPM / Yarn / PNPM
-package-lock.json
-yarn.lock
 
 
 
