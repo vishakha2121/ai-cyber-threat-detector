@@ -57,16 +57,6 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
-pip-wheel-metadata/
-share/python-wheels/
-
-# PyInstaller
-*.manifest
-*.spec
-
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
 
 
 
