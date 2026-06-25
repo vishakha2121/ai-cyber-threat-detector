@@ -411,10 +411,7 @@ $RECYCLE.BIN/
 *.appx
 *.appxbundle
 
-# Linux
-*~
-.directory
-.Trash-*
+
 
 
 
