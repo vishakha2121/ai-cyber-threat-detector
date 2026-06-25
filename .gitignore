@@ -403,13 +403,6 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# Windows
-$RECYCLE.BIN/
-*.cab
-*.msi
-*.msix
-*.appx
-*.appxbundle
 
 
 
