@@ -375,19 +375,6 @@ jekyll/
 *.pid
 *.seed
 *.pid.lock
-.terraform/
-*.tfstate
-*.tfstate.*
-.terraform.lock.hcl
-.cfignore
-.serverless/
-.elasticbeanstalk/
-config.local.php
-config.local.yaml
-.env.deploy
-.aws/
-.azure/
-.gcloud/
 
 
 
