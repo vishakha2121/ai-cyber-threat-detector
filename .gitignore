@@ -477,12 +477,6 @@ junit.xml
 *.spec.js
 *.spec.ts
 
-# ------------------------------
-# 🚀 MISCELLANEOUS
-# ------------------------------
-# Cache
-.cache/
-*.cache
 
 
 
