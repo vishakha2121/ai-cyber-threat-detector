@@ -261,27 +261,6 @@ mongodb_data/
 
 # ------------------------------
 # 🐳 DOCKER
-# ------------------------------
-docker-compose.override.yml
-docker-compose.*.yml
-.docker/
-*.dockerfile
-docker/
-docker-compose.prod.yml
-
-# ------------------------------
-# 📊 DATA FILES
-# ------------------------------
-*.csv
-*.xlsx
-*.xls
-*.json
-*.pickle
-*.pkl
-*.h5
-*.hdf5
-*.parquet
-*.feather
 
 
 
