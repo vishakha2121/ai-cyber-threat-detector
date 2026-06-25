@@ -389,19 +389,7 @@ config.local.yaml
 .azure/
 .gcloud/
 
-# ------------------------------
-# 📱 MOBILE & DESKTOP
-# ------------------------------
-# macOS
-.DS_Store
-.AppleDouble
-.LSOverride
-._*
-.Spotlight-V100
-.Trashes
-Thumbs.db
-ehthumbs.db
-Desktop.ini
+
 
 
 
