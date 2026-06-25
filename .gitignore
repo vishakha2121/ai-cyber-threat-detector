@@ -315,28 +315,7 @@ tmp/
 *.tmp
 *.temp
 
-# ------------------------------
-# 📚 DOCUMENTATION
-# ------------------------------
-docs/_build/
-docs/api/
-site/
-build/
-jekyll/
-*.pdf
-*.docx
-*.pptx
-
-# ------------------------------
-# 🔧 DEVELOPMENT TOOLS
-# ------------------------------
-# IDEs
-.idea/
-.vscode/
-*.iml
-*.swp
-*.swo
-*~
+# 
 
 
 
